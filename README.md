@@ -22,3 +22,6 @@ Next, reinstall Jupyter the same way.When finished and no errors come up, type: 
 And there you have to copy a url to put in your address bar in your browser : http''''''
 Make sure you do this from root.
 To get to root, type ./start-debian.sh provided that you used that distro.
+
+
+                         If you would like to donate, my paypal is- devija34@gmail.com
